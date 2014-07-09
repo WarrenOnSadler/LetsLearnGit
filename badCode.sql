@@ -1,0 +1,2 @@
+SELECT * 
+FROM [PROD_SERVER].[dbo].[BIG_TABLE] 
