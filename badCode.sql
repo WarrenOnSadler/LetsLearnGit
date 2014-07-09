@@ -1,2 +1,3 @@
-SELECT * 
+SELECT 
+	aTable
 FROM [PROD_SERVER].[dbo].[BIG_TABLE] 
