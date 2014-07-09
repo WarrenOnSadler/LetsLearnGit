@@ -1,3 +1,3 @@
-SELECT 
+SELECT 'allene is tired'
 	aTable
-FROM [PROD_SERVER].[dbo].[BIG_TABLE] 
+FROM [PROD_SERVER].[dbo].[myhouseTABLE] 
